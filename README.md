@@ -2,6 +2,20 @@
 
 Proyecto de optimización que genera un setlist de Stray Kids utilizando el Problema de la Mochila, programación dinámica y datos obtenidos de Spotify.
 
+## Visualizaciones
+
+### Top 10 canciones más populares
+
+![Top 10 canciones](top10.png)
+
+### Energía promedio por álbum
+
+![Energía por álbum](energia_album.png)
+
+### Relación entre duración y energía
+
+![Duración vs energía](duracionVSenergia.png)
+
 ## Descripción
 
 El objetivo es seleccionar un conjunto de canciones que maximice una métrica de valor (popularidad, reproducciones u otra puntuación derivada de Spotify) sin superar una duración máxima de concierto.
