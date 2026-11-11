@@ -65,6 +65,12 @@ El problema se modela como una variante del Problema de la Mochila:
 
 El algoritmo devuelve un conjunto optimizado de canciones para una duración determinada de concierto.
 
+## Hallazgos principales
+
+- CASE 143 es la canción más popular del conjunto analizado.
+- Clé 1 : MIROH presenta la energía promedio más alta.
+- La duración de una canción no parece tener una relación lineal fuerte con su nivel de energía.
+  
 ## Autor
 
 Osiris Ramírez
