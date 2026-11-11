@@ -16,6 +16,8 @@ Proyecto de optimización que genera un setlist de Stray Kids utilizando el Prob
 
 ![Duración vs energía](duracionVSenergia.png)
 
+### Setlist optimizado generado por programación dinámica
+![Setlis optimizado](setlist_optimizado.png)
 ## Descripción
 
 El objetivo es seleccionar un conjunto de canciones que maximice una métrica de valor (popularidad, reproducciones u otra puntuación derivada de Spotify) sin superar una duración máxima de concierto.
