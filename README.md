@@ -1,6 +1,6 @@
 # SKZ Setlist
 
-Proyecto de optimización que genera un setlist de Stray Kids utilizando el Problema de la Mochila (Knapsack Problem), programación dinámica y datos obtenidos de Spotify.
+Proyecto de optimización que genera un setlist de Stray Kids utilizando el Problema de la Mochila, programación dinámica y datos obtenidos de Spotify.
 
 ## Descripción
 
